@@ -76,7 +76,7 @@ the CKAN community on the public `CKAN chat on Gitter`_. Gitter is free and open
 you can sign in with your GitHub, GitLab, or Twitter account.
 
 The logs for the old `#ckan`_ IRC channel (2014 to 2018) can be found here:
-https://github.com/ckan/irc-logs
+https://github.com/ckan/irc-logs.
 
 Wiki
 ~~~~
