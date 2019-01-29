@@ -6,7 +6,7 @@ import ckan.lib.create_test_data as ctd
 CreateTestData = ctd.CreateTestData
 
 
-class FollowerClassesTests(object):
+class TestFollowerClasses(object):
     @classmethod
     def teardown_class(cls):
         model.repo.rebuild_db()
